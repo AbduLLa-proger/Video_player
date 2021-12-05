@@ -21,6 +21,7 @@
     "allowSyntheticDefaultImports": true
     },
     "files": [
-      "Javascript.ts"
+      "Javascript.ts",
+      "video-list.ts"
     ]
   }

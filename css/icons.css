@@ -201,10 +201,23 @@
 /* CHEVRON RIGHT AND LEFT  */
 
 .fa-chevron-right:before {
-content: "\f054"; }
+  content: "\f054";
+}
 .fad.fa-chevron-right:after {
-content: "\10f054"; }
+  content: "\10f054";
+}
 .fa-chevron-left:before {
-content: "\f053"; }
+  content: "\f053";
+}
 .fad.fa-chevron-left:after {
-content: "\10f053"; }
+  content: "\10f053";
+}
+
+/* PAUSE ICONS */
+
+.fa-pause:before {
+  content: "\f04c";
+}
+.fad.fa-pause:after {
+  content: "\10f04c";
+}
